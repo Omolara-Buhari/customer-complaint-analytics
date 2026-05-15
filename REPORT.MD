@@ -1,4 +1,4 @@
-# 📊 Customer Complaint Analytics
+# 📊 Consumer Complaint Analytics
 
 This project presents an end-to-end data analysis of customer complaints in the finance industry. The goal of the analysis is to identify complaint trends, evaluate company response performance, and generate insights to support better decision-making.
 
