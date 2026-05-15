@@ -6,7 +6,7 @@ This project analyzes customer complaints in the finance industry to uncover key
 
 ## 📁 Project Files
 
-- 📊 [Excel Dataset](Consumer_Complaints.xlsx?raw=true)
+- 📊 [Excel Dataset](./Consumer_Complaints.xlsx?raw=true)
 - 📈 [Power BI Dashboard](./Customer_Complaint_Dashboard.pbix?raw=true)
   
   
