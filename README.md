@@ -5,10 +5,10 @@ This project analyzes customer complaints in the finance industry to uncover key
 ## 📊 Dashboard Preview
 
 ### 🔹 Complaint Overview Dashboard
-![Complaint Overview](complaint-overview.png)
+![Complaint Overview](complaint-overview.jpg)
 
 ### 🔹 Company Performance Dashboard
-![Company Performance](company-performance.png)
+![Company Performance](company-performance.jpg)
 
 
 
