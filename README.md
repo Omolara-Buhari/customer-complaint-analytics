@@ -10,6 +10,11 @@ This project analyzes customer complaints in the finance industry to uncover key
 ### 🔹 Company Performance Dashboard
 ![Company Performance](company-performance.jpg)
 
+## 📁 Project Files
+## 📁 Project Files
+
+- 📊 [Excel Dataset](Consumer_Complaints.xlsx?raw=true)
+- 📈 [Power BI Dashboard](Consumer_Complaints_Dashboard.pbix?raw=true)
 
 
 
