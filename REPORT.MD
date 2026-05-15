@@ -2,7 +2,7 @@
 
 This project presents an end-to-end data analysis of customer complaints in the finance industry. The goal of the analysis is to identify complaint trends, evaluate company response performance, and generate insights to support better decision-making.
 
-Interactive dashboards were created to transform raw data into meaningful and easy-to-understand visuals.
+Interactive dashboards were created to transform raw data into meaningful and easy to understand visuals.
 
 ---
 
