@@ -14,6 +14,7 @@ Interactive dashboards were created using Excel, PowerBI to transform raw data i
 ### 🔹 Company Performance Dashboard
 ![Company Performance](company-performance.png)
 
+
 ---
 
 ## 🎯 Project Objectives
