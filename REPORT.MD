@@ -102,6 +102,16 @@ The dataset includes:
 
 - How effective are companies in providing timely responses?
 
+
+##  Tools Used
+
+1. Microsoft Excel: Data cleaning, Data inspection, Handling missing values, Data validation
+
+2. Microsoft Power BI: Dashboard creation, Data visualization, KPI development
+
+3. Microsoft PowerPoint: Dashboard wireframing
+
+
 ## Data Cleaning And Transformation
 Several cleaning and transformation processes were performed to prepare the dataset for analysis.
 
@@ -200,16 +210,6 @@ Several cleaning and transformation processes were performed to prepare the data
 **8. 📊 Timely vs Untimely Responses**
 - Majority of responses are timely  
 - A small percentage remains delayed, indicating room for improvement  
-
-
-
-##  Tools Used
-
-1. Microsoft Excel: Data cleaning, Data inspection, Handling missing values, Data validation
-
-2. Microsoft Power BI: Dashboard creation, Data visualization, KPI development
-
-3. Microsoft PowerPoint: Dashboard wireframing
 
 
 
