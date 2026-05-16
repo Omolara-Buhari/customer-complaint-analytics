@@ -200,26 +200,35 @@ Several cleaning and transformation processes were performed to prepare the data
 
 ### 2. Product Issue Concentration  
 **Insight:** Checking or Savings Accounts recorded the highest number of complaints (24.81K complaints). 
+
 **Recommendation:** The Product Management and Operations Teams should review account processes, focusing on transaction delays, fees, account maintenance, and customer communication to reduce complaint volume. 
+
 **Stakeholder:** Product & Operations Teams  
 
 
 ### 3. Account Management Challenges  
-**Insight:** “Managing an Account” is the most common issue.  
-**Recommendation:** Enhance self-service tools and simplify processes.  
-**Stakeholder:** Customer Experience Team  
+
+**Insight:** The most common complaint issue was “Managing an Account. 
+
+**Recommendation:** The Customer Experience Team should simplify account management processes, improve self-service platforms, and provide clearer guidance to customers.  
+
+**Stakeholder:** Customer Experience Team, Digital Banking Team
 
 
 ###  4. Strong Response Performance  
-**Insight:** 93.77% timely response rate achieved.  
-**Recommendation:** Maintain performance and reduce delays.  
-**Stakeholder:** Customer Service Team  
+**Insight:** Companies achieved a strong 93.77% timely response rate, showing effective complaint handling. 
+
+**Recommendation:** Customer Service and Compliance Teams should maintain service standards while investigating delayed responses to achieve near 100% efficiency.
+
+**Stakeholder:** Customer Service Team, Compliance Team
 
 
 ### 5. Complaint Trend Growth  
-**Insight:** Complaints increased from 2017–2022.  
-**Recommendation:** Use predictive analytics to anticipate issues.  
-**Stakeholder:** BI & Risk Teams  
+**Insight:** Customer complaints increased steadily from 2017 to 2022, with a slight decline in 2023
+
+**Recommendation:** The Business Intelligence Team should perform root cause analysis and apply predictive analytics to anticipate and prevent future complaint spikes. 
+
+**Stakeholder:** Business Intelligence Team, Risk Management Team  
 
  
 
