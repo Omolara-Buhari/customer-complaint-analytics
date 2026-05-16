@@ -63,6 +63,21 @@ The dataset includes:
 - Geographic locations  
 - Complaint dates  
 
+## Business Questions Answered
+
+- What are the most common customer complaint issues?
+
+- Which products receive the highest complaints?
+
+- Which channels are most frequently used?
+
+- Which states record the highest complaints?
+
+- How have complaints changed over time?
+
+- How effective are companies in providing timely responses?
+
+
 ---
 
 ## 📈 Key Insights
