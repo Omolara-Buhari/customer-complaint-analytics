@@ -4,11 +4,11 @@ This project presents an end-to-end data analysis of customer complaints in the 
 
 Interactive dashboards were created using Excel and PowerBI to transform raw data into meaningful and easy to understand visuals.
 
-----
+---
 
 ## Table of Content 
 
----
+-
 
 ## 1. Introduction
 
