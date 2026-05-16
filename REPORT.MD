@@ -21,11 +21,9 @@ Interactive dashboards were created using Excel and PowerBI to transform raw dat
 
 ## 6. Methodology
 
-## 7. Importing the Dataset
+## 7. Data Cleaning And Transformation
 
-## 8. Data Cleaning And Transformation
-
-## 9. Data Visualization
+## 8. Data Visualization
 
 ## 9. Data Analysis
 
