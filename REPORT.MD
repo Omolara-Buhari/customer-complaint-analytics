@@ -69,7 +69,7 @@ Several cleaning and transformation processes were performed to prepare the data
 
 **Cleaning Steps Performed**
 
-1. Handling Missing Values
+** 1. Handling Missing Values
 
 - Sub-product → Replaced missing values with "NOT Specified"
 
