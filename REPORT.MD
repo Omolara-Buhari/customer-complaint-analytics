@@ -4,19 +4,26 @@ This project presents an end-to-end data analysis of customer complaints in the 
 
 Interactive dashboards were created using Excel, PowerBI to transform raw data into meaningful and easy to understand visuals.
 
-## Prokect Description
+## Project Description
 
 This project covers the complete data analysis workflow, including:
 
-Data collection
+- Data collection
+
 Data cleaning and preparation
+
 Data transformation
+
 Data analysis
+
 Data visualization
+
 Dashboard development
+
 Business insights generation
+
 Recommendations for stakeholders
-The project was carried out using Microsoft Excel, Power BI, and PowerPoint to address key business questions related to customer complaints within the finance industry.
+
 
 
 
