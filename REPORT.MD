@@ -88,7 +88,7 @@ The dataset includes:
 - Geographic locations  
 - Complaint dates  
 
-** Business Questions Answered**
+**Business Questions Answered**
 
 - What are the most common customer complaint issues?
 
