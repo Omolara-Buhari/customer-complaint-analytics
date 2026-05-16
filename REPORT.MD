@@ -189,12 +189,54 @@ Several cleaning and transformation processes were performed to prepare the data
 
 ## Recommendations
 
-- Improve service quality for **high-complaint products** (e.g., checking accounts)  
-- Focus on resolving **frequent customer issues** such as account management  
-- Strengthen **digital customer support systems**, as web is the main complaint channel  
-- Target improvement strategies in **high-complaint regions (California, Florida, Texas)**  
-- Maintain and improve the **timely response rate (93.77%)**  
-- Implement proactive monitoring using dashboards for continuous performance tracking  
+
+### 🔹 1. High Complaint Volume  
+**Insight:** 62K+ complaints indicate widespread dissatisfaction.  
+**Recommendation:** Implement continuous complaint monitoring.  
+**Stakeholder:** Executive Management  
+
+
+### 🔹 2. Product Issue Concentration  
+**Insight:** Checking/Savings Accounts generated the highest complaints (24.8K).  
+**Recommendation:** Improve account processes and reduce transaction delays.  
+**Stakeholder:** Product & Operations Teams  
+
+
+### 🔹 3. Account Management Challenges  
+**Insight:** “Managing an Account” is the most common issue.  
+**Recommendation:** Enhance self-service tools and simplify processes.  
+**Stakeholder:** Customer Experience Team  
+
+---
+
+### 🔹 4. Strong Response Performance  
+**Insight:** 93.77% timely response rate achieved.  
+**Recommendation:** Maintain performance and reduce delays.  
+**Stakeholder:** Customer Service Team  
+
+
+### 🔹 5. Complaint Trend Growth  
+**Insight:** Complaints increased from 2017–2022.  
+**Recommendation:** Use predictive analytics to anticipate issues.  
+**Stakeholder:** BI & Risk Teams  
+
+
+### 🔹 6. Digital Channel Preference  
+**Insight:** Most complaints submitted via web channel.  
+**Recommendation:** Improve digital platforms and automation.  
+**Stakeholder:** IT & Digital Teams  
+
+
+### 🔹 7. Regional Complaint Concentration  
+**Insight:** Highest complaints from California, Florida, Texas, New York.  
+**Recommendation:** Focus on regional improvements.  
+**Stakeholder:** Regional Operations  
+
+
+### 🔹 8. Resolution Effectiveness  
+**Insight:** Most complaints resolved through explanations.  
+**Recommendation:** Introduce balanced compensation strategies.  
+**Stakeholder:** Complaint Resolution Team  
 
 
 
