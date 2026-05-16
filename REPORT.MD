@@ -131,42 +131,39 @@ Cleaning Steps Performed
 - Companies achieved a strong **93.77% timely response rate**  
 - Indicates efficient handling of customer complaints  
 
----
+
 
 ### ⚠️ Most Common Issues
 - Managing an account (highest)  
 - Incorrect information on reports  
 - Problems with purchases  
 
----
+
 
 ### 🌐 Complaint Submission Channels
 - Majority of complaints were submitted via the **Web channel (~45K)**  
 - Other channels include referral, phone, and postal mail  
 - Digital channels are clearly preferred  
 
----
+
 
 ### 🌍 Geographic Distribution
 - **California** recorded the highest complaints (~13.7K)  
 - Followed by Florida, Texas, and New York  
 
----
+
 
 ### 🏢 Company Response Types
 - Most complaints were resolved through **explanations**  
 - Fewer cases resulted in **monetary or non-monetary relief**  
 
----
+
 
 ### 📊 Timely vs Untimely Responses
 - Majority of responses are timely  
 - A small percentage remains delayed, indicating room for improvement  
 
----
 
-
----
 
 ##  Tools Used
 
@@ -176,7 +173,7 @@ Cleaning Steps Performed
 
 3. Microsoft PowerPoint: Dashboard wireframing
 
----
+
 
 ##  Dashboard Features
 
@@ -188,7 +185,6 @@ Cleaning Steps Performed
 - Company response performance  
 - Interactive filters (Year, Product, State)  
 
----
 
 
 ## Recommendations
