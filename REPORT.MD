@@ -36,16 +36,6 @@ This project covers the complete data analysis workflow, including:
 - Provide actionable recommendations for improvement  
 
 
-
-## 📊 Dashboard Preview
-
-### 🔹 Complaint Overview Dashboard
-![Complaint Overview](complaint-overview.jpg)
-
-### 🔹 Company Performance Dashboard
-![Company Performance](company-performance.jpg)
-
-
 ---
 
 ## Dataset Overview
@@ -115,6 +105,17 @@ Cleaning Steps Performed
 - Retained all relevant columns
 
 ---
+
+
+## 📊 Dashboard Preview
+
+### 🔹 Complaint Overview Dashboard
+![Complaint Overview](complaint-overview.jpg)
+
+### 🔹 Company Performance Dashboard
+![Company Performance](company-performance.jpg)
+
+
 
 ## 📈 Key Insights
 
