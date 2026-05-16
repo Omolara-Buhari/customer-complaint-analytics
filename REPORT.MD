@@ -191,14 +191,14 @@ Several cleaning and transformation processes were performed to prepare the data
 
 
 ### 1. High Complaint Volume  
-**Insight:** 62K+ complaints indicate widespread dissatisfaction.  
-**Recommendation:** Implement continuous complaint monitoring.  
+**Insight:** A total of 62,516 customer complaints were recorded, indicating significant customer dissatisfaction across financial products and services.
+**Recommendation:** Senior management should implement a continuous complaint monitoring system and integrate complaint analysis into strategic decision-making to identify recurring issues and improve overall customer experience 
 **Stakeholder:** Executive Management  
 
 
 ### 2. Product Issue Concentration  
-**Insight:** Checking/Savings Accounts generated the highest complaints (24.8K).  
-**Recommendation:** Improve account processes and reduce transaction delays.  
+**Insight:** Checking or Savings Accounts recorded the highest number of complaints (24.81K complaints). 
+**Recommendation:** The Product Management and Operations Teams should review account processes, focusing on transaction delays, fees, account maintenance, and customer communication to reduce complaint volume. 
 **Stakeholder:** Product & Operations Teams  
 
 
@@ -214,30 +214,12 @@ Several cleaning and transformation processes were performed to prepare the data
 **Stakeholder:** Customer Service Team  
 
 
-### 🔹 5. Complaint Trend Growth  
+### 5. Complaint Trend Growth  
 **Insight:** Complaints increased from 2017–2022.  
 **Recommendation:** Use predictive analytics to anticipate issues.  
 **Stakeholder:** BI & Risk Teams  
 
-
-### 🔹 6. Digital Channel Preference  
-**Insight:** Most complaints submitted via web channel.  
-**Recommendation:** Improve digital platforms and automation.  
-**Stakeholder:** IT & Digital Teams  
-
-
-### 🔹 7. Regional Complaint Concentration  
-**Insight:** Highest complaints from California, Florida, Texas, New York.  
-**Recommendation:** Focus on regional improvements.  
-**Stakeholder:** Regional Operations  
-
-
-### 🔹 8. Resolution Effectiveness  
-**Insight:** Most complaints resolved through explanations.  
-**Recommendation:** Introduce balanced compensation strategies.  
-**Stakeholder:** Complaint Resolution Team  
-
-
+ 
 
 ##  Conclusion
 
