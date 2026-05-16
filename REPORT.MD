@@ -25,8 +25,6 @@ This project covers the complete data analysis workflow, including:
 - Recommendations for stakeholders
 
 
----
-
 ##  Project Objectives
 
 - Analyze customer complaint trends over time  
@@ -36,7 +34,6 @@ This project covers the complete data analysis workflow, including:
 - Provide actionable recommendations for improvement  
 
 
----
 
 ## Dataset Overview
 
@@ -104,7 +101,6 @@ Cleaning Steps Performed
 
 - Retained all relevant columns
 
----
 
 
 ## 📊 Dashboard Preview
@@ -123,7 +119,7 @@ Cleaning Steps Performed
 - A total of **62.52K customer complaints** were recorded  
 - Complaint volume increased steadily from **2017 to 2022** and declined slightly in 2023  
 
----
+
 
 ### 🏦 Most Affected Products
 - **Checking/Savings accounts** recorded the highest complaints (~24.81K)  
