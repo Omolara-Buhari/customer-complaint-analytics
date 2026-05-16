@@ -79,21 +79,21 @@ Several cleaning and transformation processes were performed to prepare the data
 
 - Timely Response → Replaced with "Not Specified"
 
-2. Standardizing Column Names
+**2. Standardizing Column Names**
 
 - Removed special characters from column names: renamed Timely Response? → Timely Response
 
-3. Data Type Validation
+**3. Data Type Validation**
 
 - Verified date columns
 
 - Confirmed categorical columns as text fields
 
-4. Duplicate Validation
+**4. Duplicate Validation**
 
 - Performed duplicate checks, but no duplicate records were found
 
-5. Dataset Structuring
+**5. Dataset Structuring**
 
 - Improved readability
 
