@@ -192,7 +192,9 @@ Several cleaning and transformation processes were performed to prepare the data
 
 ### 1. High Complaint Volume  
 **Insight:** A total of 62,516 customer complaints were recorded, indicating significant customer dissatisfaction across financial products and services.
+
 **Recommendation:** Senior management should implement a continuous complaint monitoring system and integrate complaint analysis into strategic decision-making to identify recurring issues and improve overall customer experience 
+
 **Stakeholder:** Executive Management  
 
 
