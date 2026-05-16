@@ -115,7 +115,7 @@ Several cleaning and transformation processes were performed to prepare the data
 
 ##  Key Insights
 
-### 📊 Complaint Volume
+**1. 📊 Complaint Volume**
 - A total of **62.52K customer complaints** were recorded  
 - Complaint volume increased steadily from **2017 to 2022** and declined slightly in 2023  
 
