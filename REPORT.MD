@@ -113,7 +113,7 @@ Cleaning Steps Performed
 
 
 
-## 📈 Key Insights
+##  Key Insights
 
 ### 📊 Complaint Volume
 - A total of **62.52K customer complaints** were recorded  
@@ -125,7 +125,7 @@ Cleaning Steps Performed
 - **Checking/Savings accounts** recorded the highest complaints (~24.81K)  
 - Followed by **Credit Card / Prepaid Card complaints**  
 
----
+
 
 ### ⏱ Timely Response Performance
 - Companies achieved a strong **93.77% timely response rate**  
