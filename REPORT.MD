@@ -8,10 +8,6 @@ Interactive dashboards were created using Excel and PowerBI to transform raw dat
 
 ## Table of Content 
 
-
-## 1. Introduction
-
-
 1. [Introduction](#introduction)
 
 2. [Project Description](#project-description)
