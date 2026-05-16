@@ -75,7 +75,7 @@ This project covers the complete data analysis workflow, including:
 
 ## Methodology
 
-** About the Dataset**
+**About the Dataset**
 
 - Total records: **62,516 complaints**  
 - Number of columns: **12**  
