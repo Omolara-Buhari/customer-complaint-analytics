@@ -27,6 +27,16 @@ This project covers the complete data analysis workflow, including:
 
 ---
 
+##  Project Objectives
+
+- Analyze customer complaint trends over time  
+- Identify the most affected financial products  
+- Evaluate company response performance  
+- Understand customer behavior and complaint patterns  
+- Provide actionable recommendations for improvement  
+
+
+
 ## 📊 Dashboard Preview
 
 ### 🔹 Complaint Overview Dashboard
@@ -35,17 +45,6 @@ This project covers the complete data analysis workflow, including:
 ### 🔹 Company Performance Dashboard
 ![Company Performance](company-performance.jpg)
 
-
-
-
-
-##  Project Objectives
-
-- Analyze customer complaint trends over time  
-- Identify the most affected financial products  
-- Evaluate company response performance  
-- Understand customer behavior and complaint patterns  
-- Provide actionable recommendations for improvement  
 
 ---
 
