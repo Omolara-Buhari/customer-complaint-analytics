@@ -2,7 +2,7 @@
 
 This project presents an end-to-end data analysis of customer complaints in the finance industry. The goal of the analysis is to identify complaint trends, evaluate company response performance, and generate insights to support better decision-making.
 
-Interactive dashboards were created using Excel, PowerBI to transform raw data into meaningful and easy to understand visuals.
+Interactive dashboards were created using Excel and PowerBI to transform raw data into meaningful and easy to understand visuals.
 
 ## Project Description
 
@@ -10,21 +10,19 @@ This project covers the complete data analysis workflow, including:
 
 - Data collection
 
-Data cleaning and preparation
+- Data cleaning and preparation
 
-Data transformation
+- Data transformation
 
-Data analysis
+- Data analysis
 
-Data visualization
+- Data visualization
 
-Dashboard development
+- Dashboard development
 
-Business insights generation
+- Business insights generation
 
-Recommendations for stakeholders
-
-
+- Recommendations for stakeholders
 
 
 ---
