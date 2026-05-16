@@ -11,28 +11,23 @@ Interactive dashboards were created using Excel and PowerBI to transform raw dat
 
 ## 1. Introduction
 
-## 2. Project Description
+## Table of Contents
 
-## 3. Project Objectives
+1. [Introduction](#introduction)
 
-## 4. Dataset Overview
+2. [Project Description](#project-description)
 
-## 5. Tools Used
+3. [Project Objectives](#project-objectives)
 
-## 6. Methodology
+4. [ Dataset Overview](#Dataset Overview)
 
-## 7. Data Cleaning And Transformation
+5. [Tools Used](#tools-used)
 
-## 8. Dashboard Preview
+6. [Methodology](#methodology)
 
-## 9. Dashboard Features
+7. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 
-## 10. Key Insights
-
-## 11. Recommendations
-
-## 12. Conclusion
-
+8. [Data Visualization](#data-visualization)
 
 ## Introduction
 
