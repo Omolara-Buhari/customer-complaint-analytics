@@ -29,7 +29,7 @@ Interactive dashboards were created using Excel and PowerBI to transform raw dat
 
 8. [Dashboard Preview](#dashboard preview)
 
-9.[Key Insight](#Key Insight)
+9. [Key Insight](#Key Insight)
 
 10. [Conclusion](#Conclusion)
 
