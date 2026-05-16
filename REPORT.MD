@@ -194,7 +194,7 @@ Cleaning Steps Performed
 ---
 
 
-## 💡 Recommendations
+## Recommendations
 
 - Improve service quality for **high-complaint products** (e.g., checking accounts)  
 - Focus on resolving **frequent customer issues** such as account management  
@@ -205,7 +205,7 @@ Cleaning Steps Performed
 
 
 
-## 📌 Conclusion
+##  Conclusion
 
 The analysis highlights key patterns in customer complaints and company response performance within the finance industry. While companies demonstrate strong responsiveness, recurring issues and high complaint volumes in certain products and regions indicate opportunities for improvement.
 
