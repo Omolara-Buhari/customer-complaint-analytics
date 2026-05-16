@@ -122,7 +122,7 @@ Cleaning Steps Performed
 
 
 ### 🏦 Most Affected Products
-- **Checking/Savings accounts** recorded the highest complaints (~24.81K)  
+- **Checking / Savings accounts** recorded the highest complaints (~24.81K)  
 - Followed by **Credit Card / Prepaid Card complaints**  
 
 
