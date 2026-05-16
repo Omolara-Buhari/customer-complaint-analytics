@@ -25,7 +25,7 @@ This project analyzes customer complaints in the finance industry to uncover key
 
 ## Contact
 
-- ## LinkedIn: www.linkedin.com/in/www.linkedin.com/in/omolarabuhari
+- ## LinkedIn: www.linkedin.com/in/omolarabuhari
 - ## Email: omolarabuhari1@gmail.com
 
 
