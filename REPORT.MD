@@ -190,26 +190,25 @@ Several cleaning and transformation processes were performed to prepare the data
 ## Recommendations
 
 
-### 🔹 1. High Complaint Volume  
+### 1. High Complaint Volume  
 **Insight:** 62K+ complaints indicate widespread dissatisfaction.  
 **Recommendation:** Implement continuous complaint monitoring.  
 **Stakeholder:** Executive Management  
 
 
-### 🔹 2. Product Issue Concentration  
+### 2. Product Issue Concentration  
 **Insight:** Checking/Savings Accounts generated the highest complaints (24.8K).  
 **Recommendation:** Improve account processes and reduce transaction delays.  
 **Stakeholder:** Product & Operations Teams  
 
 
-### 🔹 3. Account Management Challenges  
+### 3. Account Management Challenges  
 **Insight:** “Managing an Account” is the most common issue.  
 **Recommendation:** Enhance self-service tools and simplify processes.  
 **Stakeholder:** Customer Experience Team  
 
----
 
-### 🔹 4. Strong Response Performance  
+###  4. Strong Response Performance  
 **Insight:** 93.77% timely response rate achieved.  
 **Recommendation:** Maintain performance and reduce delays.  
 **Stakeholder:** Customer Service Team  
