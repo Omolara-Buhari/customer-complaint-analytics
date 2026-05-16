@@ -9,13 +9,14 @@ Interactive dashboards were created using Excel, PowerBI to transform raw data i
 ## 📊 Dashboard Preview
 
 ### 🔹 Complaint Overview Dashboard
-![Complaint Overview](complaint-overview.png)
+![Complaint Overview](complaint-overview.jpg)
 
 ### 🔹 Company Performance Dashboard
-![Company Performance](company-performance.png)
+![Company Performance](company-performance.jpg)
 
 
----
+
+
 
 ## 🎯 Project Objectives
 
