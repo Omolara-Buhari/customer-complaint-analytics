@@ -171,7 +171,7 @@ Cleaning Steps Performed
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 1. Microsoft Excel: Data cleaning, Data inspection, Handling missing values, Data validation
 
@@ -181,7 +181,7 @@ Cleaning Steps Performed
 
 ---
 
-## 📌 Dashboard Features
+##  Dashboard Features
 
 - KPI cards (Total complaints, Timely response rate, Products affected)  
 - Trend analysis over time  
