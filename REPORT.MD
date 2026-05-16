@@ -1,4 +1,4 @@
-# 📊 Customer Complaint Analytics
+#  Customer Complaint Analytics
 
 This project presents an end-to-end data analysis of customer complaints in the finance industry. The goal of the analysis is to identify complaint trends, evaluate company response performance, and generate insights to support better decision-making.
 
@@ -18,7 +18,7 @@ Interactive dashboards were created using Excel, PowerBI to transform raw data i
 
 
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze customer complaint trends over time  
 - Identify the most affected financial products  
@@ -28,7 +28,7 @@ Interactive dashboards were created using Excel, PowerBI to transform raw data i
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 - Total records: **62,516 complaints**  
 - Number of columns: **12**  
@@ -97,14 +97,6 @@ The dataset includes:
 
 ---
 
-## 💡 Recommendations
-
-- Improve service quality for **high-complaint products** (e.g., checking accounts)  
-- Focus on resolving **frequent customer issues** such as account management  
-- Strengthen **digital customer support systems**, as web is the main complaint channel  
-- Target improvement strategies in **high-complaint regions (California, Florida, Texas)**  
-- Maintain and improve the **timely response rate (93.77%)**  
-- Implement proactive monitoring using dashboards for continuous performance tracking  
 
 ---
 
@@ -129,6 +121,18 @@ The dataset includes:
 - Interactive filters (Year, Product, State)  
 
 ---
+
+
+## 💡 Recommendations
+
+- Improve service quality for **high-complaint products** (e.g., checking accounts)  
+- Focus on resolving **frequent customer issues** such as account management  
+- Strengthen **digital customer support systems**, as web is the main complaint channel  
+- Target improvement strategies in **high-complaint regions (California, Florida, Texas)**  
+- Maintain and improve the **timely response rate (93.77%)**  
+- Implement proactive monitoring using dashboards for continuous performance tracking  
+
+
 
 ## 📌 Conclusion
 
