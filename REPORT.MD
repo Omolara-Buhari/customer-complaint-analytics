@@ -159,7 +159,7 @@ Several cleaning and transformation processes were performed to prepare the data
 
 
 
-** 8. 📊 Timely vs Untimely Responses**
+**8. 📊 Timely vs Untimely Responses**
 - Majority of responses are timely  
 - A small percentage remains delayed, indicating room for improvement  
 
