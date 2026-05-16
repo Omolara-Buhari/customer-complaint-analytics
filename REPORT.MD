@@ -115,51 +115,51 @@ Several cleaning and transformation processes were performed to prepare the data
 
 ##  Key Insights
 
-***1. 📊 Complaint Volume***
+**1. 📊 Complaint Volume**
 - A total of **62.52K customer complaints** were recorded  
 - Complaint volume increased steadily from **2017 to 2022** and declined slightly in 2023  
 
 
 
-### 🏦 Most Affected Products
+**2. 🏦 Most Affected Products**
 - **Checking / Savings accounts** recorded the highest complaints (~24.81K)  
 - Followed by **Credit Card / Prepaid Card complaints**  
 
 
 
-### ⏱ Timely Response Performance
+**3. ⏱ Timely Response Performance**
 - Companies achieved a strong **93.77% timely response rate**  
 - Indicates efficient handling of customer complaints  
 
 
 
-### ⚠️ Most Common Issues
+**4. ⚠️ Most Common Issues**
 - Managing an account (highest)  
 - Incorrect information on reports  
 - Problems with purchases  
 
 
 
-### 🌐 Complaint Submission Channels
+**5. 🌐 Complaint Submission Channels**
 - Majority of complaints were submitted via the **Web channel (~45K)**  
 - Other channels include referral, phone, and postal mail  
 - Digital channels are clearly preferred  
 
 
 
-### 🌍 Geographic Distribution
+**6. 🌍 Geographic Distribution**
 - **California** recorded the highest complaints (~13.7K)  
 - Followed by Florida, Texas, and New York  
 
 
 
-### 🏢 Company Response Types
+**7.  🏢 Company Response Types**
 - Most complaints were resolved through **explanations**  
 - Fewer cases resulted in **monetary or non-monetary relief**  
 
 
 
-### 📊 Timely vs Untimely Responses
+** 8. 📊 Timely vs Untimely Responses**
 - Majority of responses are timely  
 - A small percentage remains delayed, indicating room for improvement  
 
