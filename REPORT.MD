@@ -4,6 +4,40 @@ This project presents an end-to-end data analysis of customer complaints in the 
 
 Interactive dashboards were created using Excel and PowerBI to transform raw data into meaningful and easy to understand visuals.
 
+## Table of Content
+
+1. Introduction
+
+2. Project Description
+
+3. Project Objectives
+
+4. About the Dataset
+
+5. Tools Used
+
+6. Methodology
+
+7. Importing the Dataset
+
+8. Data Cleaning And Transformation
+
+9. Data Visualization
+
+9. Data Analysis
+
+10. Key Insights
+
+11. Recommendations
+
+12. Conclusion
+
+## Introduction
+
+Customer complaints are a critical indicator of service quality and customer satisfaction in the financial industry. Analyzing complaint data helps organizations identify recurring issues, understand customer behavior, and evaluate the effectiveness of their response processes.
+
+This project focuses on analyzing customer complaint data to uncover key trends, assess company performance, and identify areas requiring improvement. By leveraging data visualization and analytical techniques, the study provides actionable insights that support better decision-making and enhance overall customer experience.
+
 ## Project Description
 
 This project covers the complete data analysis workflow, including:
