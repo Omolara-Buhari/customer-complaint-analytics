@@ -23,7 +23,10 @@ This project analyzes customer complaints in the finance industry to uncover key
 ![Company Performance](company-performance.jpg)
 
 
+## Contact
 
+- LinkedIn: https://www.linkedin.com/in/
+-  Email: omolarabuhari1@gmail.com
 
 
  
